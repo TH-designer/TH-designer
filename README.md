@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Hart</h1>
-<h3 align="center">A passionate learner in development. I'm presently studying with the Open University to advance my skills and knowledge.</h3>
+<h3 align="center">A passionate learner in development. <br>I'm presently studying with the Open University to advance my skills and knowledge.</h3>
 
 ##I’m currently learning **Python, PSQL, Java**
 
